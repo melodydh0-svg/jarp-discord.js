@@ -1,0 +1,11 @@
+{
+  "name": "Jarp",
+  "description": "Mon plugin Vendetta",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "toi"
+    }
+  ],
+  "main": "index.js"
+}
